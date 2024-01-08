@@ -95,9 +95,9 @@ background: #0090aa;
 }
 
 #home{
-    background-image: url(../images/tea.jpg),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(../images/tea.jpg);
     min-height: 100vh;
-    background-blend-mode: luminosity;
+    
 }
 
 #home .page-title{
@@ -106,11 +106,11 @@ background: #0090aa;
 
 /* NEWS*/
 #news{
-    background-image: url(../images/tea.jpg),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(../images/tea.jpg);
     height: 270px;
     margin-bottom:40px;
     text-align: center;
-    background-blend-mode: luminosity;
+   
 }
 
 /* フッター*/
@@ -313,9 +313,9 @@ aside{
 
 /* MENU*/
 #menu{
-    background-image: url(../images/cake.jpg),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(../images/cake.jpg);
     min-height: 100vh;
-    background-blend-mode: luminosity;
+    
 }
 
 .menu-content{
